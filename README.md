@@ -87,7 +87,7 @@ This platform provides an end-to-end solution for commodity trading analysis, co
 9. **Silver** (SI=F)
 10. **Copper** (HG=F)
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Python 3.11+**
 - **Data Processing**: pandas, numpy
@@ -129,7 +129,7 @@ pip install -r requirements.txt
 
 Create a `.env` file or configure your NewsAPI key (see [API Keys](#api-keys) section).
 
-## ⚙️ Configuration
+## Configuration
 
 ### NewsAPI Configuration
 
@@ -305,5 +305,6 @@ api_key = 'your-api-key-here'
 - [ ] Advanced risk metrics (Sharpe ratio, maximum drawdown)
 - [ ] Ensemble methods combining multiple models
 - [ ] Real-time alert system
+
 
 
